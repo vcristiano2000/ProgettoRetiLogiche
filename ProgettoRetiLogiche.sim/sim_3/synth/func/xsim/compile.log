@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/Il mio Drive/Progetto Reti Logiche/10733midisiscrivo/10733midisiscrivo.sim/sim_3/synth/func/xsim/project_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'project_reti_logiche'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/Il mio Drive/Progetto Reti Logiche/10733midisiscrivo/10733midisiscrivo.srcs/sim_3/imports/Downloads/generated_testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'project_tb'
